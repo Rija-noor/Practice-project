@@ -1,0 +1,38 @@
+[
+    {"image": "haier-washer-1.jpg",
+    "title": "Top Load Washer",
+    "price": 70000
+    },
+    {"image": "haier-washer-2.jpg",
+    "title": "Inverter Washer",
+    "price": 70000
+    },
+    {"image": "haier-washer-3.jpg",
+    "title": "Digital Inverter Washer",
+    "price": 70000
+    },
+    {"image": "haier-fridge-1.jpg",
+    "title": "French Door Refrigerator",
+    "price": 70000
+    },
+    {"image": "haier-fridge-2.jpg",
+    "title": "Glass Door Refrigerator",
+    "price": 70000
+    },
+    {"image": "haier-fridge-3.jpg",
+    "title": "Digtal Inverter Refrigerator",
+    "price": 70000
+    },
+    {"image": "haier-ac-1.jpg",
+    "title": "Inverter AC",
+    "price": 70000
+    },
+    {"image": "haier-ac-2.jpg",
+    "title": "Turbo Dc Inverter AC",
+    "price": 70000
+    },
+    {"image": "haier-ac-3.jpg",
+    "title": "Dc Inverter AC",
+    "price": 70000
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {"image": "samsung-washer-1.jpg",
+    "title": "Front Load Washer",
+    "price": 70000
+    },
+    {"image": "samsung-washer-2.jpg",
+    "title": "Inverter Washer",
+    "price": 70000
+    },
+    {"image": "samsung-washer-3.jpg",
+    "title": "Digital Inverter Washer",
+    "price": 70000
+    },
+    {"image": "samsung-fridge-1.jpg",
+    "title": "French Door Refrigerator",
+    "price": 70000
+    },
+    {"image": "samsung-fridge-2.jpg",
+    "title": "Double Door Refrigerator",
+    "price": 70000
+    },
+    {"image": "samsung-fridge-3.jpg",
+    "title": "Top Freezer Refrigerator",
+    "price": 70000
+    },
+    {"image": "samsung-ac-1.jpg",
+    "title": "Inverter AC",
+    "price": 70000
+    },
+    {"image": "samsung-ac-2.jpg",
+    "title": "Turbo Dc Inverter AC",
+    "price": 70000
+    },
+    {"image": "samsung-ac-3.jpg",
+    "title": "Dc Inverter AC",
+    "price": 70000
+    }
+]
