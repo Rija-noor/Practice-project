@@ -18,3 +18,32 @@
     align-items: center;
     flex-wrap: wrap;
 }
+/* categories css */
+.product-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .product-card img {
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card:hover img {
+    transform: scale(1.05);
+  }
+  
+  .product-card button {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .product-card:hover button {
+    background-color: #0d6efd;
+    color: white;
+  }
+  
