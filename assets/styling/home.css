@@ -4,6 +4,8 @@
     box-sizing: border-box;
 
 }
+/* categories css */
+
 .product-img{
     width: 100%;
     max-width: 250px;
@@ -18,7 +20,6 @@
     align-items: center;
     flex-wrap: wrap;
 }
-/* categories css */
 .product-card {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden;
