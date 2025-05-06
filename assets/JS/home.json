@@ -1,0 +1,52 @@
+[
+    {"image": "pel-led-1.jpg",
+    "title": "35 inches LED",
+    "price": 70000
+    },
+    {"image": "pel-led-2.jpg",
+    "title": "45 inches LED",
+    "price": 70000
+    },
+    {"image": "pel-led-3.jpg",
+    "title": "55 inches LED",
+    "price": 70000
+    },
+    {"image": "pel-fridge-1.jpg",
+    "title": "Digital Inverter Refrigerator",
+    "price": 70000
+    },
+    {"image": "pel-fridge-2.jpg",
+    "title": "Glass Door Refrigerator",
+    "price": 70000
+    },
+    {"image": "pel-fridge-3.jpg",
+    "title": "Bedroom Refrigerator",
+    "price": 70000
+    },
+    {"image": "pel-ac-1.jpg",
+    "title": "Inverter AC",
+    "price": 70000
+    },
+    {"image": "pel-ac-2.jpg",
+    "title": "Turbo Dc Inverter AC",
+    "price": 70000
+    },
+    {"image": "pel-ac-3.jpg",
+    "title": "Dc Inverter AC",
+    "price": 70000
+    }
+    {"image": "pel led 1.jpg",
+    "title": "PEL UHD 55 Smart Google Bezel-less (4K) LED TV",
+    "price": "Rs.115,900.00 PKR
+"
+    },
+    {"image": "pel led 2.jpg",
+    "title": "PEL UHD 50 Smart Google Bezel-less (4K) LED TV",
+    "price": "Rs.115,900.00 PKR"
+    },
+    {"image": "pel led 3.jpg",
+    "title": "PEL UHD 65 Smart Google Bezel-less LED TV",
+    "price": "Rs.194,900.00 PKR"
+
+    }
+]
