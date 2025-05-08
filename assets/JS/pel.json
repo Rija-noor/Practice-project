@@ -1,38 +1,56 @@
 [
     {"image": "pel-led-1.jpg",
-    "title": "35 inches LED",
-    "price": 70000
+    "title": "50 inches LED",
+    "price": 11590000,
+    "modal": "SKU: 50 Bezel-less LED",
+    "fileUrl": "assets/word-files/pel-led-2.pdf"
     },
     {"image": "pel-led-2.jpg",
-    "title": "45 inches LED",
-    "price": 70000
+    "title": "55 inches LED",
+    "price": 12490000,
+    "modal": "SKU: 55 Bezel-less LED",
+    "fileUrl": "assets/word-files/pel-led-3.pdf"
     },
     {"image": "pel-led-3.jpg",
-    "title": "55 inches LED",
-    "price": 70000
+    "title": "65 inches LED",
+    "price": 19490000,
+    "modal": "SKU: 65 Bezel-less LED",
+    "fileUrl": "assets/word-files/pel-led-1.pdf"
     },
     {"image": "pel-fridge-1.jpg",
     "title": "Digital Inverter Refrigerator",
-    "price": 70000
+    "price": 11150000,
+    "modal": "SKU: 6360 Digitron Red Blaze",
+    "fileUrl": "assets/word-files/pel-fridge-2.pdf"
     },
     {"image": "pel-fridge-2.jpg",
     "title": "Glass Door Refrigerator",
-    "price": 70000
+    "price": 7190000,
+    "modal": "SKU: 2000-Purple Blaze",
+    "fileUrl": "assets/word-files/pel-fridge-3.pdf"
     },
     {"image": "pel-fridge-3.jpg",
     "title": "Bedroom Refrigerator",
-    "price": 70000
+    "price": 5590000,
+    "modal": "SKU-PRGD 1400-Red",
+    "fileUrl": "assets/word-files/pel-fridge-1.pdf"
     },
     {"image": "pel-ac-1.jpg",
-    "title": "Inverter AC",
-    "price": 70000
+    "title": "InverterOn Extend AC",
+    "price": 13090000,
+    "modal": "SKU-12K AERO Extend",
+    "fileUrl": "assets/word-files/pel-ac-3.pdf"
     },
     {"image": "pel-ac-2.jpg",
     "title": "Turbo Dc Inverter AC",
-    "price": 70000
+    "price": 13990000,
+    "modal": "SKU-12K Turbo DC Ultimate T3",
+    "fileUrl": "assets/word-files/pel-ac-2.pdf"
     },
     {"image": "pel-ac-3.jpg",
     "title": "Dc Inverter AC",
-    "price": 70000
+    "price": 14650000,
+    "modal": "SKU-12K Jumbo DC",
+    "fileUrl": "assets/word-files/pel-ac-1.pdf"
     }
 ]

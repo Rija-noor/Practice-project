@@ -1,48 +1,57 @@
 [
     {"image": "haier-washer-1.jpg",
-    "title": "Top Loading Washer",
-    "price": 34500,
-    "modal": "HW 105-BP14959"
+    "title": "Front Loading Washer",
+    "price": 345000,
+    "modal": "HW 105-BP14959",
+    "fileUrl": "assets/word-files/haier-ws-2.pdf"
 
     },
     {"image": "haier-washer-2.jpg",
-    "title": "series front loading",
-    "price": 70000,
-    "modal": "HWM 100-316"
+    "title": "Series Top loading Washer",
+    "price": 220000,
+    "modal": "HWM 100-316",
+    "fileUrl": "assets/word-files/haier-ws-3.pdf"
     },
     {"image": "haier-washer-3.jpg",
-    "title": "Digital Inverter Washer",
-    "price": 70000,
-    "modal": "HWM 90-1789"
+    "title": "Top Loading Washer",
+    "price": 100000,
+    "modal": "HWM 90-1789",
+    "fileUrl": "assets/word-files/haier-ws-1.pdf"
     },
     {"image": "haier-fridge-1.jpg",
-    "title": "French Door Refrigerator",
-    "price": 70000,
-    "modal": ""
+    "title": "T Door Refrigerator",
+    "price": 450000,
+    "modal": "HRF-578TBG",
+    "fileUrl": "assets/word-files/haier-fridge-2.pdf"
     },
     {"image": "haier-fridge-2.jpg",
-    "title": "Glass Door Refrigerator",
-    "price": 70000,
-    "modal": ""
+    "title": "Digital Inverter Refrigerator",
+    "price": 78000,
+    "modal": "HRF-316IFGA",
+    "fileUrl": "assets/word-files/haier-fridge-1.pdf"
     },
     {"image": "haier-fridge-3.jpg",
-    "title": "Digtal Inverter Refrigerator",
-    "price": 70000,
-    "modal": ""
+    "title": "Smart Inverter Refrigerator",
+    "price": 84000,
+    "modal": "HRF-246IPRA",
+    "fileUrl": "assets/word-files/haier-fridge-3.pdf"
     },
     {"image": "haier-ac-1.jpg",
-    "title": "Inverter AC",
-    "price": 70000,
-    "modal": ""
+    "title": "Solar Hybrid T3 Plus",
+    "price": 280000,
+    "modal": "Solar-Hybrid-III-Pro(OW)-T3",
+    "fileUrl": "assets/word-files/haier-ac-1.pdf"
     },
     {"image": "haier-ac-2.jpg",
-    "title": "Turbo Dc Inverter AC",
-    "price": 70000,
-    "modal": ""
+    "title": "Pearl Pro Inverter AC",
+    "price": 340000,
+    "modal": "HSU-13HSP/WUSD(B)",
+    "fileUrl": "assets/word-files/haier-ac-3.pdf"
     },
     {"image": "haier-ac-3.jpg",
-    "title": "Dc Inverter AC",
-    "price": 70000,
-    "modal": ""
+    "title": "T3 Plus Inverter AC",
+    "price": 450000,
+    "modal": "Solar-HybridIII(OW)-T3",
+    "fileUrl": "assets/word-files/haier-ac-2.pdf"
     }
 ]

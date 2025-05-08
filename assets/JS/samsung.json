@@ -1,38 +1,56 @@
 [
     {"image": "samsung-washer-1.jpg",
     "title": "Front Load Washer",
-    "price": 70000
+    "price": 24599900,
+    "modal": "WW70T4020CX/GM",
+    "fileUrl": "assets/word-files/samsung-ws-1.pdf"
     },
     {"image": "samsung-washer-2.jpg",
     "title": "Inverter Washer",
-    "price": 70000
+    "price":  22599900,
+    "modal": "WA17CK6745BDRT",
+    "fileUrl": "assets/word-files/samsung-ws-2.pdf"
     },
     {"image": "samsung-washer-3.jpg",
     "title": "Digital Inverter Washer",
-    "price": 70000
+    "price": 21499900,
+    "modal": "WA80CK4240BWRT",
+    "fileUrl": "assets/word-files/samsung-ws-3.pdf"
     },
     {"image": "samsung-fridge-1.jpg",
-    "title": "French Door Refrigerator",
-    "price": 70000
+    "title": "Double Door Refrigerator",
+    "price": 53499900,
+    "modal": "RS62R5001M9/LV",
+    "fileUrl": "assets/word-files/samsung-dd-fridge.pdf"
     },
     {"image": "samsung-fridge-2.jpg",
-    "title": "Double Door Refrigerator",
-    "price": 70000
+    "title": "French Door Refrigerator",
+    "price": 5420000,
+    "modal": "RF49A5202B1/LV",
+    "fileUrl": "assets/word-files/samsung-fd-fridge.pdf"
     },
     {"image": "samsung-fridge-3.jpg",
     "title": "Top Freezer Refrigerator",
-    "price": 70000
+    "price": 3159900,
+    "modal":"RT42CG6420S9SG",
+    "fileUrl": "assets/word-files/samsung-tf-fridge.pdf"
     },
     {"image": "samsung-ac-1.jpg",
     "title": "Inverter AC",
-    "price": 70000
+    "price": 24599900,
+    "modal": "AR60F18C1UW2PM",
+    "fileUrl": "assets/word-files/samsung-ac-1.pdf"
     },
     {"image": "samsung-ac-2.jpg",
     "title": "Turbo Dc Inverter AC",
-    "price": 70000
+    "price": 21499900,
+    "modal": "AR24TSHZGWK/PM",
+    "fileUrl": "assets/word-files/samsung-ac-2.pdf"
     },
     {"image": "samsung-ac-3.jpg",
     "title": "Dc Inverter AC",
-    "price": 70000
+    "price": 31599900,
+    "modal": "AR18TSHZGWK/PM",
+    "fileUrl": "assets/word-files/samsung-ac-3.pdf"
     }
 ]

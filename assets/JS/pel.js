@@ -10,9 +10,13 @@ $(document).ready(function(){
             class="card-img-top" alt="...">
              <div class="card-body">
             <h5 class="card-title text-center">${card.title}</h5>
+            <p class="card-text text-center">${card.modal}</p>
             <p class="card-text text-center">Rs.${card.price}/.</p>
-            <div class="d-grid gap-2 col-6 mx-auto">
+            <div class="d-grid gap-2">
+            <div class="d-flex flex-column gap-2">
             <a href="#" class="btn btn-secondary btn-center">Add to Cart</a>
+            <a href="${card.fileUrl}" download class="btn btn-dark btn-center">Grab The Details</a>
+            </div>
             </div>
             </div>
             </div>
